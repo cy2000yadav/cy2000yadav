@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chaitanyaportfolio.netlify.app/](https://chaitanyaportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [Google Cloud Platform](Google Cloud Platform)
+- 📝 I regularly write articles on Google Cloud Platform
 
 - 💬 Ask me about **html , css , react and cloud**
 
