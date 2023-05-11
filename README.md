@@ -6,7 +6,10 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cy2000yadav&label=Profile%20views&color=0e75b6&style=flat" alt="cy2000yadav" /> </p>
+<div style="text-align:center;">
+  <img src="https://komarev.com/ghpvc/?username=cy2000yadav&label=Profile%20views&color=0e75b6&style=flat" alt="cy2000yadav" />
+</div>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
