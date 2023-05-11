@@ -52,7 +52,7 @@
 
 ## 💻 GitHub Stats
 <p>
-  <a href="#"><img alt="Chaitanya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=cy2000yadav&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Chaitanya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=cy2000yadav&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px"></a>
   <a href="#"><img alt="Chaitanya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikha-code36&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
