@@ -1,25 +1,33 @@
-<h1 align="center">Hi <span class="wave">👋</span>, I'm Chaitanya Yadav</h1>
+<h1 align="center">Hi <span class="hand-emoji">👋</span>, I'm Chaitanya Yadav</h1>
 
 <style>
-.wave {
+.hand-emoji {
+  display: inline-block;
   animation-name: wave-animation;
   animation-duration: 2.5s;
   animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
+  transform-origin: 50% 50%;
 }
 
 @keyframes wave-animation {
-  0% { transform: rotate(0.0deg) }
-  10% { transform: rotate(14.0deg) }
-  20% { transform: rotate(-8.0deg) }
-  30% { transform: rotate(14.0deg) }
-  40% { transform: rotate(-4.0deg) }
-  50% { transform: rotate(10.0deg) }
-  60% { transform: rotate(0.0deg) }
-  100% { transform: rotate(0.0deg) }
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(20deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(-20deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
 }
 </style>
+
 
 <h3 align="center">A passionate Web developer, Data Analyst and Cloud Computing enthusiast from India</h3>
 
