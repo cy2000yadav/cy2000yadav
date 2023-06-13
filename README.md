@@ -19,15 +19,13 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanya_7700" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanya_7700?logo=twitter&style=for-the-badge" alt="chaitanya_7700" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App using ReactJS**
+- 🔭 I’m currently working on **Diwali Sales Analysis in Python**
 
-- 🌱 I’m currently learning **ReactJS, Javascript and SQL**
+- 🌱 I’m currently learning **Data Analysis, PowerBI and SQL**
 
 - 👯 I’m looking to collaborate on **open-source and web development projects**
 
 - 🤝 I’m looking for help with **Front-end and Back-end development**
-
-- 👨‍💻 All of my projects are available at [https://chaitanyaportfolio.netlify.app/](https://chaitanyaportfolio.netlify.app/)
 
 - 📝 I regularly write articles on Google Cloud Platform
 
