@@ -29,11 +29,8 @@
 
 - 📝 I regularly write articles on Google Cloud Platform
 
-- 💬 Ask me about **html , css , react and cloud**
+- 💬 Ask me about **html , css , data analysis and cloud**
 
-- 📫 How to reach me **cy2000yadav@gmail.com**
-
-- ⚡ Fun fact **I think I am funny and down-to-earth person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
