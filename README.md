@@ -19,9 +19,9 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanya_7700" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanya_7700?logo=twitter&style=for-the-badge" alt="chaitanya_7700" /></a> </p>
 
-- 🔭 I’m currently working on **Diwali Sales Analysis in Python**
+- 🔭 I’m currently working on **Store Sales Dashboard in PowerBI**
 
-- 🌱 I’m currently learning **Data Analysis, PowerBI and SQL**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **open-source and web development projects**
 
